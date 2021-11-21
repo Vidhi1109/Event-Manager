@@ -1,17 +1,17 @@
 # Event_Mangers
 1.Retrieve details of events on a particular date.
-Takes a date and prints all events corresponding to that date
-2.Print ids of all available equipments
-Prints ids of all available equipments
-3.Details of employee whose names contain the given substring
-Kind of word search like entering Kr will give Kratika and Kritika both.
-4.Print the amount spent on paying salaries
-Sums up salaries of all employees and displays it.
-5.Print Details of all equipments that cost above a particular threshold value
-Takes cost input and prints details of all equipments with costs greater than given value
-6.Show a particular table
-Displays the demanded table
-In the video the above 4 queries were performed first. User just needs to enter the number corresponding to each query and whatever function has been written in the statement is performed.
+<br>Takes a date and prints all events corresponding to that date
+<br>2.Print ids of all available equipments
+<br>Prints ids of all available equipments
+<br>3.Details of employee whose names contain the given substring
+<br>Kind of word search like entering Kr will give Kratika and Kritika both.
+<br>4.Print the amount spent on paying salaries
+<br>Sums up salaries of all employees and displays it.
+<br>5.Print Details of all equipments that cost above a particular threshold value
+<br>Takes cost input and prints details of all equipments with costs greater than given value
+<br>6.Show a particular table
+<br>Displays the demanded table
+<br>In the video the above 4 queries were performed first. User just needs to enter the number corresponding to each query and whatever function has been written in the statement is performed.
 15.Update Employee details
 Takes employee id and modifies the requested fields .
 16.Update Equipment details
