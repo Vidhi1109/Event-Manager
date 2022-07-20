@@ -1,10 +1,10 @@
 # Event_Mangers
 - Retrieve details of events on a particular date.
   - Takes a date and prints all events corresponding to that date
-  
+- Print ids of all available equipments
+  - Prints ids of all available equipments
+
 <br>
-<br>2.Print ids of all available equipments
-<br>Prints ids of all available equipments
 <br>3.Details of employee whose names contain the given substring
 <br>Kind of word search like entering Kr will give Kratika and Kritika both.
 <br>4.Print the amount spent on paying salaries
