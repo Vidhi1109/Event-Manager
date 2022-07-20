@@ -2,7 +2,7 @@
 
 | Input | Function |
 | ------ | ------ |
-| \ Fetching data from database|
+| \2. Fetching data from database|
 | 1 | Takes a date and prints all events corresponding to that date |
 | 2 | Prints ids of all available equipments |
 | 3 | Prints details of employee whose names contain the given substring. Kind of word search like entering Kr will give Kratika and Kritika both |
