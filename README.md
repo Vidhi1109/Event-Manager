@@ -1,4 +1,10 @@
 # Event_Mangers
+
+| Key | Function |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+
+
 1.Retrieve details of events on a particular date.
 Takes a date and prints all events corresponding to that date
 2.Print ids of all available equipments
