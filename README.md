@@ -29,4 +29,7 @@
 | 19 | Remove an equipment. Takes equipment id and removes the details associated with it|
 | 20 | Resignation of an employee. Removes employee by taking employee id |
 | 21 | Delete records of a performer.Deletes performer records by taking performer id |
+## To quit the program
+| Input | Function |
+| ------ | ------ |
 | 22 | Logout | 
