@@ -9,18 +9,16 @@
   - Sums up salaries of all employees and displays it
 - Print Details of all equipments that cost above a particular threshold value
   - Takes cost input and prints details of all equipments with costs greater than given value
-
-<br>6.Show a particular table
-<br>Displays the demanded table
-<br>In the video the above 4 queries were performed first. User just needs to enter the number corresponding to each query and whatever function has been written in the statement is performed.
-<br>15.Update Employee details
-<br>Takes employee id and modifies the requested fields .
-<br>16.Update Equipment details
-<br>Takes equipmentid and modifies the requested fields .
-<br>17.Update Profits
-<br>Takes event id and modifies the requested fields .
-<br>18.Update Performer Details
-<br>Takes employee id and modifies the requested fields .
+- Show a particular table
+  - Displays the demanded table
+- Update Employee details
+  - Takes employee id and modifies the requested fields .
+- Update Equipment details
+  - Takes equipmentid and modifies the requested fields .
+- Update Profits
+  - Takes event id and modifies the requested fields .
+- Update Performer Details
+  - Takes employee id and modifies the requested fields .
 <br>19.Remove an equipment
 <br>Takes equipment id and
 <br>20.Resignation of an employee
