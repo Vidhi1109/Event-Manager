@@ -2,12 +2,14 @@
 
 | Input | Function |
 | ------ | ------ |
+| Fetching data from database|
 | 1 | Takes a date and prints all events corresponding to that date |
 | 2 | Prints ids of all available equipments |
 | 3 | Prints details of employee whose names contain the given substring. Kind of word search like entering Kr will give Kratika and Kritika both |
 | 4 | Sums up salaries of all employees and displays it |
 | 5 | Print Details of all equipments that cost above a particular threshold value. Takes cost input and prints details of all equipments with costs greater than given value |
 | 6 | Displays the demanded table |
+| Insert information in the database |
 | 7 | Insert Event details. Takes all details of an event and inserts it into the database |
 | 8 | Insert Admin details. Takes all details of admin and inserts it into the database |
 | 9 | Insert Spectator details. Takes all details of Spectator and inserts it into the database |
