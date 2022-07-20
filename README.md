@@ -1,4 +1,5 @@
 # Event_Mangers
+Implemented a fully functional cli-based database management system which can be used to manage events by an event management firm.
 ## Fetching data from databse
 | Input | Function |
 | ------ | ------ |
