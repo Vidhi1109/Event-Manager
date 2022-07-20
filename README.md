@@ -2,15 +2,16 @@
 
 | Key | Function |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| 1 | Takes a date and prints all events corresponding to that date |
+| 2 | Prints ids of all available equipments |
+| 3 | Prints details of employee whose names contain the given substring. Kind of word search like entering Kr will give Kratika and Kritika both |
 
 
-1.Retrieve details of events on a particular date.
-Takes a date and prints all events corresponding to that date
+1.
+
 2.Print ids of all available equipments
-Prints ids of all available equipments
-3.Details of employee whose names contain the given substring
-Kind of word search like entering Kr will give Kratika and Kritika both.
+
+3.
 4.Print the amount spent on paying salaries
 Sums up salaries of all employees and displays it.
 5.Print Details of all equipments that cost above a particular threshold value
